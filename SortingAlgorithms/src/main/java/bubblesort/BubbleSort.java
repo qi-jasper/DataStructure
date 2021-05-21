@@ -6,7 +6,6 @@ package bubblesort;
  * @Date 2020/8/23 13:32
  * @ClassName BubbleSort
  **/
-
 public class BubbleSort {
 
     public static void bubbleSort(int[] array) {

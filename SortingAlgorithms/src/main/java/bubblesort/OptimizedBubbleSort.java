@@ -6,7 +6,6 @@ package bubblesort;
  * @Date 2020/8/23 15:17
  * @ClassName OptimizedBubbleSort
  **/
-
 public class OptimizedBubbleSort {
 
     public static void bubbleSort(int[] array) {
@@ -19,6 +18,7 @@ public class OptimizedBubbleSort {
         if (array == null || array.length <= 0) {
             return;
         }
+
 
         // 冒泡次数
         for (int i = 0; i < array.length - 1; i++) {
