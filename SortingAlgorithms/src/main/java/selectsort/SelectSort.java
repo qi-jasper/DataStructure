@@ -6,7 +6,6 @@ package selectsort;
  * @Date 2020/8/23 15:21
  * @ClassName SelectSort
  **/
-
 public class SelectSort {
 
     public static void selectSort(int[] array) {
@@ -34,7 +33,6 @@ public class SelectSort {
             }
         }
     }
-
     
     public static void main(String[] args) {
         int[] arrays = {4, 7, 2, 3, 9, 2};
